@@ -185,7 +185,7 @@ section a:visited {
   height: 220px;
 }
 
-.preview.typographic {
+.preview.billing {
   margin: 0 30px;
 }
 
@@ -302,7 +302,7 @@ a.button:hover {
     flex-direction: column;
   }
 
-  .preview.typographic {
+  .preview.billing {
     margin: 0 0 15px 0; /* Reset left and right margin */
   }
   .preview {
